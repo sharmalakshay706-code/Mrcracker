@@ -17,5 +17,11 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
       },
+      {
+        "device_id": "410b51ce2514030d",
+        "key": "mrcracker",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+      },
 
 ]

@@ -29,5 +29,11 @@
         "expirydate": "28-3-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "2b1a4c098f964c12",
+        "key": "Salmankhan",
+        "expirydate": "31-3-2026",
+        "Allowoffline": false
+    },
 
 ]

@@ -54,4 +54,10 @@
         "expirydate": "08-04-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "5363a838b879b886",
+        "key": "Sangerr",
+        "expirydate": "11-04-2026",
+        "Allowoffline": false
+    },
 ]

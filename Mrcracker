@@ -41,5 +41,10 @@
         "expirydate": "31-3-2026",
         "Allowoffline": false
     },
-
+    {
+        "device_id": "d69084a893aec637",
+        "key": "Salmankhannn",
+        "expirydate": "31-3-2026",
+        "Allowoffline": false
+    },
 ]

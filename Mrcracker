@@ -84,4 +84,9 @@
         "expirydate": "01-04-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "ce0202592489203d",
+        "key": "81906787",
+        "expirydate": "01-04-2026",
+        "Allowoffline": false
 ]
